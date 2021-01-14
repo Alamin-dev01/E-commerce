@@ -1,0 +1,56 @@
+body{
+
+    font-family:Arial, Helvetica, sans-serif
+}
+
+.navbar_float{
+
+    margin-left: 45%;
+}
+.nav-item{
+    margin-right: 25px;
+}
+
+
+.Custom-font{
+
+    font-size: 4em;
+    font-weight: bold;
+}
+
+.card-class{
+
+    border: none;
+    height: 80%;
+    border-radius: 5%;
+
+    width: 80%;
+    background: #6ca56a96;
+
+}
+.btn-green{
+
+    background: linear-gradient(#8dce51, #282323);
+    color:white;
+}
+.img{
+
+
+    width: 100%;
+    padding: 10%;
+    height: 100%;
+   display: block;
+
+    margin: auto;
+}
+
+.w-80{
+    width: 90%;
+}
+.card-f{
+
+    border: none;
+    font-size: 4em;
+    font-weight:bold;
+    color: #6d804a;
+}
